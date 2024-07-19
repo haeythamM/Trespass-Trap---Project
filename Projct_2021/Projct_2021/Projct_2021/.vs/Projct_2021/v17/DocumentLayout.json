@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\loginauthenticator\\windowsformsapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\loginauthenticator\\windowsformsapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\loginauthenticator\\windowsformsapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\trespassing trap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\trespassing trap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\trespassing trap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\trespassing trap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\projct_2021\\trespassing trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\trespassing trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\trespassing trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\trespassing trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\loginauthenticator\\windowsformsapp\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\loginauthenticator\\windowsformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\loginauthenticator\\windowsformsapp\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\itzikgur-my-seven-keys.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\itzikgur-my-seven-keys.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\loginauthenticator\\windowsformsapp\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|c:\\users\\haith\\onedrive\\desktop\\project submition - final\\code\\projct_c#\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\projct_2021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163028A7-99D4-4571-BE23-9E09989CE864}|Projct_2021\\Projct_2021.csproj|solutionrelative:projct_2021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Security Trap||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\loginauthenticator\\windowsformsapp\\password.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D94F7-41A7-43DD-9CBD-2B4FFECEEB85}|..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\loginauthenticator\\windowsformsapp\\password.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:30:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Projct_2021\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:28:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-19T01:27:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trespassing Trap.resx",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.resx",
+              "RelativeDocumentMoniker": "Projct_2021\\Trespassing Trap.resx",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.resx",
+              "RelativeToolTip": "Projct_2021\\Trespassing Trap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-19T01:27:36.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trespassing Trap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.Designer.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Trespassing Trap.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.Designer.cs",
+              "RelativeToolTip": "Projct_2021\\Trespassing Trap.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:27:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trespassing Trap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Trespassing Trap.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.cs [Design]",
+              "RelativeToolTip": "Projct_2021\\Trespassing Trap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:27:26.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trespassing Trap.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Trespassing Trap.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Trespassing Trap.cs",
+              "RelativeToolTip": "Projct_2021\\Trespassing Trap.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAWwD8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Projct_2021\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Resources.resx",
+              "RelativeToolTip": "Projct_2021\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-19T01:25:05.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:25:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:26:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Projct_2021\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:24:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Program.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.cs [Design]",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Itzikgur-My-Seven-Keys.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Itzikgur-My-Seven-Keys.ico",
+              "RelativeDocumentMoniker": "Projct_2021\\Itzikgur-My-Seven-Keys.ico",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Itzikgur-My-Seven-Keys.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "Projct_2021\\Itzikgur-My-Seven-Keys.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-19T01:27:08.411Z",
+              "EditorCaption": " - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Projct_2021\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:26:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Program.cs",
+              "RelativeDocumentMoniker": "Projct_2021\\Program.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Projct_2021\\Program.cs",
+              "RelativeToolTip": "Projct_2021\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:25:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Security Trap",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Security Trap.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2021-11-24T02:32:21.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Password.resx",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.resx",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.resx",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.resx",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-19T01:17:50.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Password.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.Designer.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\WindowsFormsApp\\Password.Designer.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\WindowsFormsApp\\Password.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginAuthenticator.cs",
+              "DocumentMoniker": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "RelativeDocumentMoniker": "..\\LoginAuthenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "ToolTip": "C:\\Users\\haith\\OneDrive\\Desktop\\Project Submition - Final\\Code\\Projct_c#\\Projct_2021\\Projct_2021\\Projct_2021\\LoginAuthenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "RelativeToolTip": "..\\LoginAuthenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:50.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

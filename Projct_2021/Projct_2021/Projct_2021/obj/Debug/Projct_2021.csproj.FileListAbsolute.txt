@@ -1,0 +1,19 @@
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\bin\Debug\Projct_2021.exe.config
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\bin\Debug\Projct_2021.exe
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\bin\Debug\Projct_2021.pdb
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.Form1.resources
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.Properties.Resources.resources
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.csproj.GenerateResource.Cache
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.exe
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.pdb
+C:\Users\haeyt\Desktop\PROJECT\Projct_2021\Projct_2021\obj\Debug\Projct_2021.csprojResolveAssemblyReference.cache
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\bin\Debug\Projct_2021.exe.config
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\bin\Debug\Projct_2021.exe
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\bin\Debug\Projct_2021.pdb
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.Form1.resources
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.Properties.Resources.resources
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.csproj.GenerateResource.cache
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.csproj.CoreCompileInputs.cache
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.exe
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.pdb
+E:\FINAL SEMESTER\PRG 650\Projct_2021\Projct_2021\Projct_2021\obj\Debug\Projct_2021.csproj.AssemblyReference.cache

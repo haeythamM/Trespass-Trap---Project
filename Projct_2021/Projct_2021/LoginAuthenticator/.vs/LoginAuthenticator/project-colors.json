@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72acd728-6065-4880-98d7-abcc3235b07a": {
+      "ProjectGuid": "72acd728-6065-4880-98d7-abcc3235b07a",
+      "DisplayName": "LibLoginAuthenticator",
+      "ColorIndex": 0
+    },
+    "2a9f1792-933e-49b0-9d38-ab17c71d3766": {
+      "ProjectGuid": "2a9f1792-933e-49b0-9d38-ab17c71d3766",
+      "DisplayName": "ConAuthenticator",
+      "ColorIndex": 1
+    },
+    "d73d94f7-41a7-43dd-9cbd-2b4ffeceeb85": {
+      "ProjectGuid": "d73d94f7-41a7-43dd-9cbd-2b4ffeceeb85",
+      "DisplayName": "WindowsFormsApp",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
