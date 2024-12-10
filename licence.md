@@ -8,5 +8,5 @@ No individual or entity is permitted to use, modify, distribute, or reproduce an
 
 Unauthorized use of this project or its contents is strictly prohibited and may result in legal action.  
 
-© 2024 Haitham Al Malak. All rights reserved.  
+© 2022 Haitham Al Malak. All rights reserved.  
 
