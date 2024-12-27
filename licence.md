@@ -1,12 +1,17 @@
-# License  
+# License
 
-All rights reserved.  
+This repository is **not open for public use**. All rights to the code and content are reserved by the author.
 
-This project, **Trespass-Trap**, and all associated materials, including but not limited to source code, designs, and documentation, are the sole property of **Haitham Al Malak**.  
+## Terms of Use
 
-No individual or entity is permitted to use, modify, distribute, or reproduce any part of this project in any form without explicit written permission from the author.  
+- You **may not** use, modify, distribute, or copy any part of this repository.
+- You **may not** create derivative works based on the code or content.
+- You **may not** use the code for commercial purposes or personal projects.
 
-Unauthorized use of this project or its contents is strictly prohibited and may result in legal action.  
+## Copyright
 
-© 2022 Haitham Al Malak. All rights reserved.  
+© 2022 Haeytham Almalak. All rights reserved.
 
+---
+
+By accessing or using this repository, you agree to these terms. If you have any questions, please contact the author directly.
