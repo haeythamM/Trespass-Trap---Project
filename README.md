@@ -2,7 +2,7 @@
 
 ## Overview
 **Trespass Trap** is an electronic security application integrating **C#.NET** with **Arduino** to detect and respond to trespassing activities.  
-The system was designed and implemented by **Haeytham Al Malak** (2021).
+The system was designed and implemented by **Haeytham Al Malak** (2022).
 
 ## Features
 - Developed a C#.NET application to serve as the main security station interface.  
@@ -24,5 +24,5 @@ The system was designed and implemented by **Haeytham Al Malak** (2021).
 - Explore human–computer interaction in safety and security contexts.  
 
 ## License
-Copyright © 2021 Haeytham Al Malak.  
+Copyright © 2022 Haeytham Al Malak.  
 All rights reserved. Unauthorized use, reproduction, or modification of this project is strictly prohibited.  
