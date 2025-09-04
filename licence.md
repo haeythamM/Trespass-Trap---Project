@@ -1,6 +1,6 @@
-# 📜 License – TrespassingTrap Project (2021)
+# 📜 License – TrespassingTrap Project (2022)
 
-Copyright (c) 2021 Haeytham Almalak
+Copyright (c) 2022 Haeytham Almalak
 
 All rights reserved.
 
