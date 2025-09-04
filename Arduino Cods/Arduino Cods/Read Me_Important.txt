@@ -1,7 +1,0 @@
-1- The sub station code by :
-
-Note: this code below based on a cod from: http://create.arduino.cc/projecthub/54183/smart-security-alarm-52323a 
-By: karen-d-kusuma and adjusted by Haeytham Almalak.
-
-
-2- The Camera Code from Examples of Arduieno ESP32 (No Changes only shange the board )

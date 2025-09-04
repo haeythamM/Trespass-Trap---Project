@@ -1,17 +1,22 @@
-# License
+# 📜 License – TrespassingTrap Project (2021)
 
-This repository is **not open for public use**. All rights to the code and content are reserved by the author.
+Copyright (c) 2021 Haeytham Almalak
 
-## Terms of Use
+All rights reserved.
 
-- You **may not** use, modify, distribute, or copy any part of this repository.
-- You **may not** create derivative works based on the code or content.
-- You **may not** use the code for commercial purposes or personal projects.
+This source code and its associated files are the intellectual property of the author.  
+Unauthorized copying, modification, distribution, or use of this project, via any medium, is strictly prohibited without the prior written consent of the author.
 
-## Copyright
+## Conditions
+- The code is provided for reference and educational review only.  
+- Commercial or personal reuse, redistribution, or integration into other projects is **not permitted**.  
+- Any request for collaboration, demonstration, or licensing must be explicitly approved by the author.
 
-© 2022 Haeytham Almalak. All rights reserved.
+## Disclaimer
+This project is provided “as is” without warranty of any kind, either expressed or implied.  
+The author is not liable for any damages or misuse arising from this code.
 
 ---
 
-By accessing or using this repository, you agree to these terms. If you have any questions, please contact the author directly.
+For permissions, inquiries, or collaboration opportunities, please contact:  
+**haithamalmalak@gmail.com**

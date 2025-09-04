@@ -1,13 +1,28 @@
-# Trespass-Trap---Project  
+# Trespass Trap – Project
 
-### Designed and the C#.NET Code Created by Haitham Al Malak  
+## Overview
+**Trespass Trap** is an electronic security application integrating **C#.NET** with **Arduino** to detect and respond to trespassing activities.  
+The system was designed and implemented by **Haeytham Al Malak** (2021).
 
-## TrespassingTrap Project  
+## Features
+- Developed a C#.NET application to serve as the main security station interface.  
+- Facilitated communication between a main PC and multiple **substations** via Bluetooth.  
+- Activated lights and triggered a siren when trespassing was detected.  
+- Enabled the main station to send signals to lock the door and trap the trespasser.  
+- Integrated two hidden cameras connected over a local network.  
+- Allowed the user to reset or snooze the alarm at any time.  
 
-- **Designed and programmed** an electronic security application using **C#.NET** and **Arduino**.  
-- **Facilitated communication** between a main security station PC and multiple substations via Bluetooth, enabling the tracking of any trespassing activities.  
-- **Activated lights** at the location when trespassing was detected; additionally, a siren would sound when a person crossed into the area.  
-- **Sent signals** from the main station to the Windows application to lock the door and trap the trespasser.  
-- Included two **hidden cameras** connected via a local network, allowing the user to reset or snooze the alarm at any time.  
+## Technologies Used
+- **C#.NET** for main station application and control interface.  
+- **Arduino** for substation hardware (sensors, locks, buzzer, LEDs).  
+- **Bluetooth** modules (HC-05) for wireless communication.  
+- **Local Network (LAN)** for camera monitoring.  
 
-### Copyright Reserved  
+## Project Goals
+- Demonstrate integration of software and hardware in a real-time security environment.  
+- Provide a modular approach for **multi-substation communication** with a central control system.  
+- Explore human–computer interaction in safety and security contexts.  
+
+## License
+Copyright © 2021 Haeytham Al Malak.  
+All rights reserved. Unauthorized use, reproduction, or modification of this project is strictly prohibited.  
